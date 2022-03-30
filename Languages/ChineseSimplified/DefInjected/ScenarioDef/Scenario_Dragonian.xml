@@ -6,17 +6,16 @@
   <Dragonian_Wild_Scenario.label>野生龙族剧本</Dragonian_Wild_Scenario.label>
   <Dragonian_Wild_Scenario.description>野生龙族剧本</Dragonian_Wild_Scenario.description>
   <Dragonian_Wild_Scenario.scenario.name>野性龙人</Dragonian_Wild_Scenario.scenario.name>
-  <Dragonian_Wild_Scenario.scenario.summary>独自一人，没有资源，你能活下来吗？可能不能，这是一个非常困难的剧本。</Dragonian_Wild_Scenario.scenario.summary>
-  <Dragonian_Wild_Scenario.scenario.description>你记得的最后一件事是，当你和你的亲戚走出洞穴，开始探索这个世界时，你们被攻击了。在动乱中，你逃得很远，但你独自一人没有资源，你能活下来吗？很可能不能。 \n\n研究科技（动物）\n\n这是一个非常困难的剧本。</Dragonian_Wild_Scenario.scenario.description>
+  <Dragonian_Wild_Scenario.scenario.summary>你孤身一人，一无所有，能够活下来吗？大概不能吧。这是一个极端困难的剧本。</Dragonian_Wild_Scenario.scenario.summary>
+  <Dragonian_Wild_Scenario.scenario.description>你记得的最后一件事是，你和你的族人们走出洞穴，准备开始探索这个未知的世界。但是没过多久，你们遭遇了袭击。动乱中，你独自一人逃得很远。现在你没有任何资源，能够活下来吗？大概不能吧。 \n\n研究科技（动物）\n\n这是一个极端困难的剧本。</Dragonian_Wild_Scenario.scenario.description>
 
 
   <!-- Dragonian Tribe Scenario -->
 
   <Dragonian_Tribe_Scenario.label>龙族部落剧本</Dragonian_Tribe_Scenario.label>
   <Dragonian_Tribe_Scenario.description>龙族部落剧本</Dragonian_Tribe_Scenario.description>
-  <Dragonian_Tribe_Scenario.scenario.name>野性龙人</Dragonian_Tribe_Scenario.scenario.name>
-  <Dragonian_Tribe_Scenario.scenario.summary>没有资源的龙族部落，你能活下来吗？可能不能，困难的剧本。</Dragonian_Tribe_Scenario.scenario.summary>
-  <Dragonian_Tribe_Scenario.scenario.description>你记得的最后一件事是，当你和你的亲戚走出洞穴，开始探索这个世界时，你们被攻击了。 在动乱中，你和几个亲戚逃得很远，但没有资源，你们能活下来吗？很可能不能。 \n\n研究科技（动物）\n\n这是一个非常困难的剧本。</Dragonian_Tribe_Scenario.scenario.description>
-
+  <Dragonian_Tribe_Scenario.scenario.name>部落龙人</Dragonian_Tribe_Scenario.scenario.name>
+  <Dragonian_Tribe_Scenario.scenario.summary>一群没有任何资源的龙人，你们能活下来吗？大概不能吧，这是一个困难的剧本。</Dragonian_Tribe_Scenario.scenario.summary>
+  <Dragonian_Tribe_Scenario.scenario.description>你记得的最后一件事是，你和你的族人们走出洞穴，准备开始探索这个未知的世界。但是没过多久，你们遭遇了袭击。动乱中，你和几个族人一起逃得很远。现在你们没有资源，能够活下来吗？大概不能吧。 \n\n研究科技（动物）\n\n这是一个困难的剧本。</Dragonian_Tribe_Scenario.scenario.description>
 
 </LanguageData>
