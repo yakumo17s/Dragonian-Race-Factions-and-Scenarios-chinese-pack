@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_Villager_F.label>龙族村民</Dragonian_Villager_F.label>
+  <Dragonian_Villager_F.labelPlural>龙族村民们</Dragonian_Villager_F.labelPlural>
+  <Dragonian_Villager_F.labelMale>男性龙族村民</Dragonian_Villager_F.labelMale>
+  <Dragonian_Villager_F.labelMalePlural>男性龙族村民们</Dragonian_Villager_F.labelMalePlural>
+  <Dragonian_Villager_F.labelFemale>女性龙族村民</Dragonian_Villager_F.labelFemale>
+  <Dragonian_Villager_F.labelFemalePlural>女性龙族村民们</Dragonian_Villager_F.labelFemalePlural>
+
+  <Dragonian_Town_Guard_F.label>龙族小镇守卫</Dragonian_Town_Guard_F.label>
+  <Dragonian_Town_Guard_F.labelPlural>龙族小镇守卫们</Dragonian_Town_Guard_F.labelPlural>
+  <Dragonian_Town_Guard_F.labelMale>男性龙族小镇守卫</Dragonian_Town_Guard_F.labelMale>
+  <Dragonian_Town_Guard_F.labelMalePlural>男性龙族小镇守卫们</Dragonian_Town_Guard_F.labelMalePlural>
+  <Dragonian_Town_Guard_F.labelFemale>女性龙族小镇守卫</Dragonian_Town_Guard_F.labelFemale>
+  <Dragonian_Town_Guard_F.labelFemalePlural>女性龙族小镇守卫们</Dragonian_Town_Guard_F.labelFemalePlural>
+
+  <Dragonian_Town_Trader_F.label>龙族小镇商人</Dragonian_Town_Trader_F.label>
+  <Dragonian_Town_Trader_F.labelPlural>龙族小镇商人们</Dragonian_Town_Trader_F.labelPlural>
+  <Dragonian_Town_Trader_F.labelMale>男性龙族小镇商人</Dragonian_Town_Trader_F.labelMale>
+  <Dragonian_Town_Trader_F.labelMalePlural>男性龙族小镇商人们</Dragonian_Town_Trader_F.labelMalePlural>
+  <Dragonian_Town_Trader_F.labelFemale>女性龙族小镇商人</Dragonian_Town_Trader_F.labelFemale>
+  <Dragonian_Town_Trader_F.labelFemalePlural>女性龙族小镇商人们</Dragonian_Town_Trader_F.labelFemalePlural>
+
+  <Dragonian_Town_Councilman_F.label>龙族小镇长老</Dragonian_Town_Councilman_F.label>
+  <Dragonian_Town_Councilman_F.labelPlural>龙族小镇长老们</Dragonian_Town_Councilman_F.labelPlural>
+  <Dragonian_Town_Councilman_F.labelMale>男性龙族小镇长老</Dragonian_Town_Councilman_F.labelMale>
+  <Dragonian_Town_Councilman_F.labelMalePlural>男性龙族小镇长老们</Dragonian_Town_Councilman_F.labelMalePlural>
+  <Dragonian_Town_Councilman_F.labelFemale>女性龙族小镇长老</Dragonian_Town_Councilman_F.labelFemale>
+  <Dragonian_Town_Councilman_F.labelFemalePlural>女性龙族小镇长老们</Dragonian_Town_Councilman_F.labelFemalePlural>
+
+
+</LanguageData>

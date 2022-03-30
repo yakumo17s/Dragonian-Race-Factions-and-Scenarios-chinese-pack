@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Dragonian Race Factions and Scenarios汉化</name>
+  <author>𝓐𝔃𝓾𝓴𝓲</author>
+  <packageId>𝓐𝔃𝓾𝓴𝓲.DragonianRaceFactionsZH</packageId>
+  <url>
+  </url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>erdelf.HumanoidAlienRaces</packageId>
+      <displayName>Humanoid Alien Races 2.0</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/839005762</steamWorkshopUrl>
+      <downloadUrl>
+      </downloadUrl>
+    </li>
+    <li>
+      <packageId>GloomyLynx.DragonianRace</packageId>
+      <displayName>Dragonian Race</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1632800575</steamWorkshopUrl>
+      <downloadUrl>
+      </downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>erdelf.HumanoidAlienRaces</li>
+    <li>GloomyLynx.DragonianRace</li>
+  </loadAfter>
+  <description>Dragonian Race Factions and Scenarios汉化
+	</description>
+</ModMetaData>
